@@ -1,18 +1,11 @@
-### Hi there 👋
+### Hi there, Namaste! 👋
 
-<img https://www.google.com/search?q=java&rlz=1C5CHFA_enAT857AT857&sxsrf=AJOqlzU4hznY5G-9QFqkeCTiHFKTs0cIWg:1678090638895&source=lnms&tbm=isch&sa=X&ved=2ahUKEwijqbrj7sb9AhUohf0HHcNtB3gQ_AUoAXoECAIQAw&biw=1440&bih=764&dpr=2#imgrc=fonPxndOSTmOOM>
+**Languages and Tools:**  
 
-<!--
-**mohitkalia97/mohitkalia97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://heise.cloudimg.io/width/600/q75.png-lossy-75.webp-lossy-75.foil1/_www-heise-de_/tipps-tricks/imgs/96/2/4/3/3/8/3/8/Bildschirmfoto_2018-05-30_um_08-6aae3c7af906438d.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://lilly021.com/wp-content/uploads/2019/07/springBoot_featured_image.png"></code>
